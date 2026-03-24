@@ -3,7 +3,7 @@ export const personalInfo = {
   title: "Engine Development Lead | Program Manager | 18+ Years of Excellence",
   email: "tapanchourey@gmail.com",
   phone: "+91-7087232445",
-  location: "Dhar, M.P, India",
+  location: "Dhar, M.P, India / Pune, Maharashtra, India",
   linkedin: "https://www.linkedin.com/in/tapan-chourey-997112107/",
   profileImage: "/images/profile.jpg", // Place your LinkedIn photo here as 'profile.jpg'
   summary: `A distinguished Mechanical Engineer with over 18.5 years of experience in the Automotive (Diesel and Gasoline), Off-highway, and Tractor sectors. My expertise spans Product Development, Testing, and handling complex Engine and Powertrain programs. I specialize in establishing Powertrain Projects with complete development technology to meet current and upcoming emission norms, driving innovation, and delivering high-quality products.`,
